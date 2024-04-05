@@ -15,8 +15,9 @@ The related datasets can be found at:
 
 ## Usage: M-Calib (the inference)
 
-download model in
- https://drive.google.com/drive/u/0/folders/1vOcRPlDXIm8WCKZ8J6ZGiaE3IuySHSMu
+Option 1: Use pre-trained model
+
+ Option 2: Training new model
  
  +) model Mask-RCNN using by PaddleDetection
  

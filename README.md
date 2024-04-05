@@ -2,7 +2,7 @@
 Implementation code for our paper [" M-Calib: A Monocular 3D Object Localization using 2D Estimates for Industrial Robot Vision System"]
 
 ## Our proposed:
-<img src="https://github.com/thanhnguyencanh/MonoCalibNet/blob/main/image/Overview.png" width="450px">
+<img src="https://github.com/thanhnguyencanh/MonoCalibNet/blob/main/image/Overview.png" width="750px">
  
 ## Requirements
 * python 3.7

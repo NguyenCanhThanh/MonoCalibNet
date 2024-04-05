@@ -18,20 +18,29 @@ The related datasets can be found at:
 
 ## Usage: M-Calib (the inference)
 
-Option 1: Use pre-trained model
+* 1. Step 1: Clone this repo
+```
+git clone https://github.com/thanhnguyencanh/MonoCalibNet
+cd MonoCalibNet
+```
+* 2. Step 2: Creating a model
 
- Option 2: Training new model
- 
- +) model Mask-RCNN using by PaddleDetection
- 
- +) model Yolov5
- 
- Create dir: model,dataset
- 
- Set path in cfg.py
- 
- 
-Run run_chessboard_yolov5.py
+Option 1: Use a pre-trained model
+
+Option 2: Training new model
+
+* 3. Step 3: Testing
+
+```
+mkdir model
+mkdir dataset
+```
+ + Set pat in cfg.py
+ + 
+```
+python3 run_chessboard_yolov5.py
+```
+
 
 ## Citation
 ```

@@ -36,7 +36,6 @@ mkdir model
 mkdir dataset
 ```
  + Set pat in cfg.py
- + 
 ```
 python3 run_chessboard_yolov5.py
 ```

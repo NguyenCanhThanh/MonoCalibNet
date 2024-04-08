@@ -26,13 +26,15 @@ cd MonoCalibNet
 ```
 * 2. Step 2: Creating a model
 
-Option 1: + Use a pre-trained model: [model](https://drive.google.com/drive/folders/1MS6DLxgKxo-FtC7TSTJN8WJCxhu8W3Fe?usp=sharing)
+Option 1: 
++ Use a pre-trained model: [model](https://drive.google.com/drive/folders/1MS6DLxgKxo-FtC7TSTJN8WJCxhu8W3Fe?usp=sharing)
 
-          + Modify path in [cfg.py](https://github.com/thanhnguyencanh/MonoCalibNet/blob/main/cfg.py)
++ Modify path in [cfg.py](https://github.com/thanhnguyencanh/MonoCalibNet/blob/main/cfg.py)
 
-Option 2: Training new model using [Object_Detection](https://github.com/thanhnguyencanh/MonoCalibNet/blob/main/Object_Detection.ipynb) and [Instance_Segmentation](https://github.com/thanhnguyencanh/MonoCalibNet/blob/main/Instance_Segmentation.ipynb) 
+Option 2: 
++ Training new model using [Object_Detection](https://github.com/thanhnguyencanh/MonoCalibNet/blob/main/Object_Detection.ipynb) and [Instance_Segmentation](https://github.com/thanhnguyencanh/MonoCalibNet/blob/main/Instance_Segmentation.ipynb) 
 
-          + Convert to Onnx model
++ Convert to Onnx model
 
 * 3. Step 3: Testing
 

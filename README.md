@@ -25,7 +25,8 @@ cd MonoCalibNet
 ```
 * 2. Step 2: Creating a model
 
-Option 1: Use a pre-trained model
+Option 1: Use a pre-trained model: https://drive.google.com/drive/folders/1MS6DLxgKxo-FtC7TSTJN8WJCxhu8W3Fe?usp=sharing
+          Modify path in [cfg.py](https://github.com/thanhnguyencanh/MonoCalibNet/blob/main/cfg.py)
 
 Option 2: Training new model
 

@@ -64,13 +64,3 @@ mkdir dataset
 ```
 python3 run_chessboard_yolov5.py
 ```
-
-
-## Citation
-```
-@article{canh2024m,
-  title={M-Calib: A Monocular 3D Object Localization using 2D Estimates for Industrial Robot Vision System},
-  author={Canh, Thanh Nguyen and HoangVan, Xiem and others},
-  year={2024}
-}
-```

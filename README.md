@@ -1,6 +1,24 @@
 # M-Calib: A Monocular 3D Object Localization using 2D Estimates for Industrial Robot Vision System
 Implementation code for our paper ["M-Calib: A Monocular 3D Object Localization using 2D Estimates for Industrial Robot Vision System"](https://assets.researchsquare.com/files/rs-4019542/v1_covered_5a75ac68-1bc8-4bdd-b2c5-8bbdb1eac8f1.pdf?c=1711473654)
 
+Thanh Nguyen Canh, Du Trinh Ngoc, Xiem HoangVan, "**Monocular 3D Object Localization using 2D Estimates for Industrial Robot Vision System**," *Journal of Automation, Mobile Robotics and Intelligent Systems*, 2024. [[**Journal of Automation, Mobile Robotics and Intelligent Systems**](https://doi.org/)] [[Citation](#citation)]
+
+## Citation
+```
+@article{Canh2024,
+  title = {Monocular 3D Object Localization using 2D Estimates for Industrial Robot Vision System},
+  ISSN = {},
+  url = {},
+  DOI = {},
+  journal = {Journal of Automation, Mobile Robotics and Intelligent Systems},
+  publisher = {Industrial Research Institute for Automation and Measurements PIAP, Poland},
+  author = {Thanh, Nguyen Canh and Du, Trinh Ngoc and Xiem HoangVan},
+  year = {2024},
+  month = jul,
+  pages = {}
+}
+```
+
 ## Our proposed:
 <img src="https://github.com/thanhnguyencanh/MonoCalibNet/blob/main/image/Overview.png" width="750px">
  
